@@ -1,0 +1,10 @@
+package org.techhub;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class CilentApplication {
+	public static void main(String [] x) {
+		ClassPathXmlApplicationContext contest=new ClassPathXmlApplicationContext("Test.xml");
+	}
+
+}

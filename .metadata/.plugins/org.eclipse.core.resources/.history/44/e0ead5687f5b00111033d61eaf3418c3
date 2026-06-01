@@ -1,0 +1,9 @@
+package org.techhub;
+
+@Component("calc")
+public class Calculator {
+	@Autowired
+	@Qualifier("mul")
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AutowireByName/src/main/resources/Text.xml&apos; to &apos;Test.xml&apos;" description="Rename resource &apos;Text.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/Text.xml" name="Test.xml" stamp="1779989759194" updateReferences="true"/>
+</session>

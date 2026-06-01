@@ -1,0 +1,9 @@
+package org.techhub;
+
+public class Company {
+	private String name;
+	private String TAN;
+	private String PAN;
+	
+
+}

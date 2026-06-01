@@ -1,0 +1,8 @@
+package org.techhub;
+
+public class CilentApplication {
+	public static void main(String [] x) {
+		ClassPathXmlApplicationContest contest=new ClassPathXmlApplicationContest("Test.xml");
+	}
+
+}

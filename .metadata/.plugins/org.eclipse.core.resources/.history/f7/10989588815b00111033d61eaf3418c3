@@ -1,0 +1,7 @@
+
+@Configuration
+@ComponentScan(basePackeges= {"org.techhub"})
+public class ConfigApp {
+	
+
+}

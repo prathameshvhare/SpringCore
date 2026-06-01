@@ -1,0 +1,19 @@
+package org.techhub;
+
+import java.util.Set;
+
+public class Dept {
+	
+	Set<String> names;
+	
+	public void setDeptNames(Set<String> names) {
+		this.names=names;
+	}
+	
+	public void showDpetList() {
+		for(String s:names) {
+			System.out.println(s);
+		}
+	}
+
+}

@@ -1,0 +1,6 @@
+package org.techhub;
+
+public class Dept {
+	private Map<Integer,String> map;
+
+}

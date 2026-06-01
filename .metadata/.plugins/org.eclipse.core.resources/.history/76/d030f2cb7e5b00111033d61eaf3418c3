@@ -1,0 +1,26 @@
+package org.techhub;
+
+public class Add implements SetVal {
+
+	@Override
+	public void setA(int a) {
+		// TODO Auto-generated method stub
+		this.a=a;
+		
+	}
+
+	@Override
+	public void setB(int b) {
+		// TODO Auto-generated method stub
+		this.b=b;
+		
+	}
+
+	@Override
+	public int getResult() {
+		// TODO Auto-generated method stub
+		return a+b;
+	}
+	
+
+}

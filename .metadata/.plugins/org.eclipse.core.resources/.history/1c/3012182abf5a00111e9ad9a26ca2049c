@@ -1,0 +1,19 @@
+package org.techhub;
+
+public class MSME {
+	private Company company;
+	
+	public MSME(Company company)
+	{
+		this.company=company;
+		System.out.println("I am Constuctor");
+	}
+	
+	public Company getCompany() {
+		return company;
+	}
+	public void setCompany(Company company) {
+		this.company=company;
+	}
+
+}

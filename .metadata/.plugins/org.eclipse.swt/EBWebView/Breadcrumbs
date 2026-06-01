@@ -1,0 +1,64 @@
+0:07:50 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:07:50 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+0:07:50 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:07:50 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:07:50 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+0:07:50 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:07:50 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:07:50 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+0:07:50 Tab8 RenderProcessGone
+0:07:50 Microsoft.UnloadController.ClearUnloadState
+0:07:50 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+0:07:50 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+0:07:50 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:07:50 Microsoft.UnloadController.ClearUnloadState
+0:07:50 Browser8 Close Tab8 at 0
+0:07:50 Tab8 WebContentsDestroyed
+0:07:50 Microsoft.UnloadController.TabStripEmpty
+0:07:50 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:07:50 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:07:50 Microsoft.Shutdown.OnWindowClosing
+0:07:50 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:07:50 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:07:50 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:07:50 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:07:50 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:07:50 Widget Closed: BrowserWidget
+0:07:50 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:07:50 Microsoft.Shutdown.OnWindowClosing
+0:07:50 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:07:50 Microsoft.Browser_Removed
+0:09:53 Microsoft.NewBrowser_Popup
+0:09:53 Microsoft.BrowserList.AddBrowser
+0:09:53 Browser9 Insert active Tab9 at 0
+0:09:53 Tab9 StartNav27 #auto_toplevel
+0:09:53 Tab9 StartNav28 #typed
+0:09:54 Tab9 FinishNav27
+0:09:54 Tab9 PageLoad
+0:09:54 Tab9 FinishNav28
+0:09:54 Tab9 PageLoad
+0:09:56 Tab9 StartNav29 #typed
+0:09:56 Tab9 FinishNav29
+0:09:56 Tab9 PageLoad
+0:10:03 Microsoft.NewBrowser_Popup
+0:10:03 Microsoft.BrowserList.AddBrowser
+0:10:03 Browser10 Insert active Tab10 at 0
+0:10:03 Tab10 StartNav30 #auto_toplevel
+0:10:03 Tab10 StartNav31 #typed
+0:10:03 Tab10 FinishNav30
+0:10:03 Tab10 PageLoad
+0:10:03 Tab10 FinishNav31
+0:10:03 Tab10 PageLoad
+0:10:03 Tab10 StartNav32 #typed
+0:10:04 Tab10 FinishNav32
+0:10:04 Tab10 PageLoad
+0:10:05 Tab10 StartNav33 #typed
+0:10:05 Tab10 FinishNav33
+0:10:05 Tab10 PageLoad
+0:10:19 Tab9 StartNav34 #typed
+0:10:19 Tab9 FinishNav34
+0:10:19 Tab9 PageLoad
+0:10:21 Tab9 StartNav35 #typed
+0:10:21 Tab9 FinishNav35
+0:10:21 Tab9 PageLoad
+0:10:35 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp

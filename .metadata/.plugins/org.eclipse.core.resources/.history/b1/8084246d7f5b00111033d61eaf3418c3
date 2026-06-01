@@ -1,0 +1,19 @@
+package org.techhub;
+
+import org.springframework.stereotype.Component;
+
+@Component("calc")
+public class Calculator {
+	@Autowired
+	@Qualifier("mul")
+	
+	private SetVal setVal;
+	
+	public void setOperation(SetVal setVal)
+	{
+		this.setVal=setVal;
+	}
+	
+	
+
+}

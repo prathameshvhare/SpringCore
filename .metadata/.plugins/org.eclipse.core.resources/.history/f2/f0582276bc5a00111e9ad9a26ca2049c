@@ -1,0 +1,10 @@
+package org.techhub;
+
+public class MSME {
+	
+	private Company company;
+	public Company getCompany() {
+		return company;
+	}
+
+}

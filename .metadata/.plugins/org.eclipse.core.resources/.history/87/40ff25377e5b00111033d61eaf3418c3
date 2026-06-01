@@ -1,0 +1,6 @@
+package org.techhub;
+
+public class Add implements SetVal {
+	
+
+}

@@ -1,0 +1,17 @@
+package org.techhub;
+
+import java.util.Map;
+import java.util.Set;
+
+public class Dept {
+	private Map<Integer,String> map;
+	
+	public void setDept(Map<Integer,String> map) {
+		this.map=map;
+	}
+	
+	public void showList() {
+		Set<Map.Entry<Integer,String>> set=map.entrySet();
+	}
+
+}

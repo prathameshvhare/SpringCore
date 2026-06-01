@@ -1,0 +1,15 @@
+package org.techhub;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class ConstructorInjectionApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext("Player.xml");
+		
+		Test t=(Test)context.getBean("t");
+
+	}
+
+}

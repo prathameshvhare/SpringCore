@@ -1,0 +1,11 @@
+package org.techub;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class PlayerClientApplication {
+	public static void main(String [] x)
+	{
+		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext
+	}
+
+}

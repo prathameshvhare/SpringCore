@@ -1,0 +1,13 @@
+package org.techhub;
+
+import java.util.Set;
+
+public class Dept {
+	
+	Set<String> names;
+	
+	public void setDeptNames(set<String> names) {
+		this.names=names;
+	}
+
+}

@@ -1,0 +1,15 @@
+package org.techhub;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class ClientApplication {
+	public static void main(String [] x)
+	{
+		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext("Test.xml");
+		
+		Dept dept=(Dept)context.getBean("d");
+		
+		dept.showList();
+	}
+
+}

@@ -1,0 +1,9 @@
+package org.techhub;
+
+public class Employee {
+
+	private List<String> names;
+	public void setNames(List<String> names) {
+		this.names=names;
+	}
+}

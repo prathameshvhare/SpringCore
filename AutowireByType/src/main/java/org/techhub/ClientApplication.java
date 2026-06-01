@@ -1,0 +1,14 @@
+package org.techhub;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class ClientApplication {
+	public static void main(String [] x)
+	{
+		ClassPathXmlApplicationContext context=new ClassPathXmlApplicationContext("Test.xml");
+		
+		MSME m=(MSME)context.getBean("m");
+		m.showDetails();
+	}
+
+}

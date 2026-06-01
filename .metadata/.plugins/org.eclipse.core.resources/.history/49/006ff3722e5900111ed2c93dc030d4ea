@@ -1,0 +1,8 @@
+package org.techhub;
+
+public class Test {
+	public Test(int x) {
+		System.out.pritln("I am paramaterized Constructor: "+ x);
+	}
+
+}
